@@ -17,5 +17,5 @@
 * In Application, you can manage (Create, Read, Update, Delete) Students, Classes and Courses.
 
 ### Credits
-- The Education Management is a project built with Java Swing and MySQL developed by Tien Nguyen.
-- Initial concept and development was done by Tien Nguyen.
+- The Education Management is a project built with Java Swing and MySQL developed by Tien M. Nguyen.
+- Initial concept and development was done by Tien M. Nguyen.
